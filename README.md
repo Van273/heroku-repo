@@ -39,3 +39,7 @@ This will delete the contents of the build cache stored in the repository. This 
     $ heroku repo:reset -a appname
 
 This will empty the remote repository.
+
+    $ heroku repo:weather -a appname
+    
+
